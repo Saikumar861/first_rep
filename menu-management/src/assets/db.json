@@ -1,0 +1,22 @@
+{
+  "menu-items": [
+    {
+      "id": "eb2d",
+      "name": "Mutton Biryani",
+      "description": "Delicious Food",
+      "price": 300,
+      "category": "Appetizers",
+      "imageUrl": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/03/Best-Mutton-Biryani-Recipe-500x500.jpg",
+      "availability": false
+    },
+    {
+      "id": "acf0",
+      "name": "Chicken Biryani",
+      "description": "Favourite Food",
+      "price": 250,
+      "category": "Appetizers",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAUws9ZOq00tkGSX57NP1qS0U2DjAcfkSUJ0X4cLEctju-PbPeOwdu1UfS1fTcUtcaMzNGtWpyULrWhtd2-0ckrpNz56jVHAqmuBAfDRebg",
+      "availability": true
+    }
+  ]
+}
